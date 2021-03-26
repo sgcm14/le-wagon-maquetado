@@ -4,7 +4,7 @@ Sitio de Le Wagon
 - **Periodo :** 25 Marzo 2021
 > Diseñamos y codeamos una landing page en 2 horas! .
 
-También veremos muchos tips de diseño, colores, iconos y fuentes.
+También se vió muchos tips de diseño, colores, iconos y fuentes.
 
 La página es como la siguiente captura de pantalla
 ![](https://raw.githubusercontent.com/sgcm14/Sitio-Le-Wagon/master/doc/site.png)
