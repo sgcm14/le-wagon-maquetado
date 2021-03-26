@@ -74,6 +74,7 @@ a:hover{
     background-color: #646464;
     text-align: center;
     padding: 30px;
+  
 }
 .footer p{
     margin: 0;
@@ -86,4 +87,9 @@ a:hover{
     
         display: inline-block;
     }
+
+    .container{
+        width: 100%;
+    }
+    
 }
